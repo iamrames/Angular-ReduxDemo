@@ -22,10 +22,13 @@
     "@angular/platform-browser": "~8.0.3",
     "@angular/platform-browser-dynamic": "~8.0.3",
     "@angular/router": "~8.0.3",
+    "bootstrap": "^4.3.1",
+    "immutable": "^4.0.0-rc.12",
     "ng-redux": "^4.4.0",
     "redux": "^4.0.1",
     "redux-devtools-extension": "^2.13.8",
     "rxjs": "~6.4.0",
+    "tassign": "^1.0.0",
     "tslib": "^1.9.0",
     "zone.js": "~0.9.1"
   },
